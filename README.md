@@ -1,6 +1,5 @@
-- Hi, my name is Maxwell.
-- I am a Software Engineering graduate.
-- This is a place where I store my personal projects!
+- Hi, my name is Maxwell. I am a Software Engineering graduate!
+- This is where I store my personal projects!
 
 <!---
 mahicks5/mahicks5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
